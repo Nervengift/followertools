@@ -2,13 +2,13 @@ Small commandline utility to view who is following whom on twitter
 
 ## Usage
 
-```sh
+```
 followertools follows|friends|connection|commonfriends|commonfriendscount|path <user1> <user2>
 ```
 
 ## Examples
 
-```sh
+```
 $ ./followertools follows nervengiftlabs letsencrypt
 yes
 $ ./followertools follows letsencrypt nervengiftlabs
